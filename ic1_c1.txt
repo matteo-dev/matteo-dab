@@ -2,7 +2,7 @@ Vous avez donc decide d'explorer la maison.
 
 
 Stats du personnage :
-
+ 
 point de vie : 10
 
 courage : 5
