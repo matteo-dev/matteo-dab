@@ -1,0 +1,39 @@
+Vous avez donc decide de voter pour.
+
+Stats du personnage :
+
+point de vie : 10
+
+courage : 8
+
+peur : 0
+
+Le groupe sortit de la boutique, leurs pensees encore empreintes de curiosite pour le coffret en bois et l'enigme qu'il renfermait. Mais alors qu'ils s'appretaient a discuter de la prochaine etape de leur aventure, un bruit retentit au loin, attirant leur attention.
+
+Ils entendirent des eclats de musique et des rires joyeux provenant de la place principale du village. Curieux, ils se dirigerent vers cette animation, laissant momentanement de cote le mystere du coffret. La place etait animee par un festival local, ou les habitants et les visiteurs se rassemblaient pour celebrer une tradition ancestrale.
+
+Le groupe etait captive par les spectacles et les activites du festival. Ils assisterent a des performances artistiques, gouterent aux mets traditionnels et participerent a des jeux populaires. Ils se laisserent emporter par l'ambiance effervescente et les festivites animees.
+
+La nuit tombait progressivement, et ils deciderent qu'il etait temps de rentrer au camp pour se reposer. Ils regagnerent leur emplacement de camping et monterent rapidement leurs tentes. Epuises mais remplis de souvenirs de cette journee animee, ils se glisserent dans leurs sacs de couchage respectifs et s'endormirent paisiblement.
+
+Cependant, alors que le silence de la nuit enveloppait le camp, Bao, allonge dans sa tente, se rememora soudainement le coffret oublie. Une lueur d'excitation traversa ses yeux alors qu'il se rappelait la photo de la maison abandonnee et l'enigme qui les attendait.
+
+Il se redressa vivement et sortit de sa tente. Il reunit le groupe en le reveillant et ouvrit le coffret devant tout le monde. Les amis regarderent avec anticipation, se demandant ce qui les attendait.
+
+A l'interieur du coffret, Bao decouvrit une feuille de papier. Ses yeux se poserent sur une photo de la maison abandonnee qu'ils avaient deja remarquee dans le village. La surprise se lut sur les visages du groupe alors qu'ils comprenaient que cette maison etait liee a l'enigme et au tresor.
+
+Au dos de la feuille, des mots etaient inscrits : "Avis a tous ceux qui sont en quete d'aventure et de mystere, cette maison fera l'affaire."
+
+Les amis echangerent des regards excites. Ils realiserent que l'histoire du coffret et de l'enigme etait loin d'etre terminee. Cette maison abandonnee semblait etre la prochaine etape de leur aventure.
+Bao, fou d'aventure voulait absolument y aller. Mourad, ne trouvant pas le sommeil etait egalement pour. Alice etait un peu pour mais elle avait un peu peur. Votre choix l'influencera visiblement.
+
+Voici la question pour le vote : Partir visiter la maison maintenant ou demain.
+
+Etat du vote :
+
+Pour : Mourad, Bao. Contre : Personne.
+
+Taper 1 pour partir visiter la maison abandonnee maintenant.
+
+Taper 2 pour partir la visiter demain.
+

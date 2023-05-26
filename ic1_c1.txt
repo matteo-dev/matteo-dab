@@ -1,0 +1,28 @@
+Vous avez donc decide d'explorer la maison.
+
+
+Stats du personnage : 
+
+point de vie : 10
+
+courage : 5
+
+peur : 5
+
+
+Le groupe s'avança prudemment sur le sentier qui les conduisait vers la maison abandonnée, plongés dans l'obscurité de la nuit. Les branches des arbres semblaient gratter le ciel étoilé, projetant des ombres étranges et effrayantes sur leur chemin. Une brume épaisse se faufilait à travers les bois, créant une atmosphère mystérieuse et inquiétante.
+
+Au fur et à mesure de leur progression, le silence pesant se mêlait au murmure du vent, créant une ambiance lugubre. La maison se dressait devant eux, son allure décrépite reflétant la tristesse qui l'habitait. Les fenêtres cassées semblaient les regarder sans vie, les observant d'un air froid et indifférent.
+
+Le groupe échangea des regards anxieux, partagé entre l'excitation de l'aventure et la montée de l'appréhension. Bao, avide de découvertes, s'avança courageusement vers la porte d'entrée, prêt à percer les secrets qui se cachaient à l'intérieur. Mourad, bien qu'inquiet, le suivit de près, attiré par le frisson du mystère. Alice, quant à elle, tremblait légèrement, oscillant entre sa curiosité et sa peur.
+
+La porte grinça tristement lorsqu'ils la poussèrent, laissant entrevoir un intérieur sombre et sinistre. Une odeur de moisi et de poussière remplissait l'air stagnant, ajoutant une dimension supplémentaire à l'atmosphère effrayante. Les planchers craquaient sous leurs pas, comme des murmures étouffés, et les courants d'air froid semblaient chuchoter à leurs oreilles. A mesure qu'ils marchaiient, les planches de bois grinçaient de plus en plus jusqu'a ce que le sol se trouvant juste aux pieds de Bao se cassa. Il tomba d'au moins 5 mètres. Tout le reste du groupe sursauta. Bao cria au groupe qu'il s'était blesser, mais qu'à part ça, il était toujours vivant. Les 3 membres restants décidèrent de trouver des escaliers pour le rejoindre. Quand soudain, ils entendirent un énorme bruit de cloche dans toute la maison. Tétanisé, ils sortirent de la maison laissant Bao tout seul. En courant vers la sortie, vous tombez et vous faites tres mal au bras. Vous perdez des points de vie. Une fois sorti, Mourad se renda compte de l'acte ignoble qu'il venait de faire. En effet, ils ont osé laissé seul leur camarade blessé. Mourad ne pouvait laisser son brave camarade seul. Alice quant a elle pensait qu'il etait preferable d'aller chercher de l'aide. Mais attendre est peut etre synonyme de la la mort de Bao.
+
+Etat des votes : 
+
+Pour : Mourad      Contre : Alice.  
+
+
+Taper 1 pour suivre votre frere.
+
+Taper 2 pour suivre Alice.  

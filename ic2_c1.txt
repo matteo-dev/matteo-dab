@@ -1,0 +1,48 @@
+Vous avez donc décidé de visiter la maison.
+
+Stats du personnage : 
+
+
+Point de vie : 10
+
+courage : 6
+
+peur : 3
+
+Le groupe entra prudemment dans l'obscurité de la demeure abandonnée. Les planchers grinçaient sous leurs pas hésitants, et les courants d'air soufflaient à travers les fissures des murs, créant une ambiance surnaturelle. La poussière flottait dans les rayons de lumière qui filtraient à travers les vitres brisées, ajoutant à l'atmosphère étrange de l'endroit.
+
+Alors qu'ils se dirigeaient plus profondément dans la maison, ils remarquèrent un escalier menant à un sous-sol. Une lueur faible émanait de la porte entrouverte, invitant leur curiosité.
+
+Intrigués, ils descendirent prudemment les marches, leurs mains cherchant des appuis sur les murs délabrés.
+Malencontreusement, vous tombez dans les escaliers et vous vous faites très mal au genou. Vous perdez de ce fait des points de vie. Vous vous relvez malgré votre douleur et continuez votre avanture avec le groupe. 
+Une fois en bas, ils découvrirent que le sous-sol était étonnamment bien éclairé, grâce à de petites lampes disséminées ici et là.
+
+Au milieu de la pièce, ils aperçurent un jeu de société posé sur le sol. Les pièces colorées semblaient les inviter à participer à une nouvelle énigme à résoudre. Ils s'installèrent en cercle, prêts à relever le défi qui leur était lancé.
+
+Ils se plongèrent dans le jeu, se lançant des défis, résolvant des énigmes et avançant dans l'histoire du jeu. Le temps s'envola tandis qu'ils se perdaient dans le monde fictif devant eux, oubliant momentanément les murs froids et le passé lugubre de la maison.
+
+Cependant, à un moment crucial du jeu, une série d'événements inattendus se produisit. Des bruits sourds retentirent à l'extérieur, les portes du sous-sol se refermèrent brusquement et les lumières s'éteignirent, plongeant le groupe dans l'obscurité totale. C'est alors que vous tombez sur le sol en vous fracassant votre genou sur le sol. Vous vous êtes fait très mal et vous avez du mal à marcher. Peu de temps après, la lumière se ralluma. Vous découvrez qu'Alice a disparu. Vous criez son prénom et c'est alors que vous entendez "AIDEZ-MOI, ON ME KIDNAPPE". 
+Vous vous retrouvez donc avec Mourad et votre petit frère. 
+Votre petit frère suggère d'aller chercher de l'aide et de ne pas prendre le risque de tomber dans la même situation que Alice. Bao considère ce choix comme une mort pour Alice.
+
+Stats de votre personnage : 
+
+Point de vie : 6 
+
+courage : 4 
+
+peur : 7
+
+Etat actuel du vote : 
+
+Sauver Alice : Bao                            Chercher de l'aide : Mourad
+
+
+Que décidez-vous donc ?
+
+
+Taper 1 pour suivre Bao.
+
+
+Taper 2 pour suivre Mourad.
+
