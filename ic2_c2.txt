@@ -1,44 +1,43 @@
-Vous avez donc décidé de ne pas visiter la maison. 
+Vous avez donc decide de ne pas visiter la maison.
 
-Stats de votre personnage : 
+Stats de votre personnage :
 
-Point de vie : 10 
-
-
-courage : 6 
+Point de vie : 10
 
 
-peur : 1 
+courage : 6
 
-Le groupe, prudent mais curieux, décida finalement de ne pas s'aventurer davantage dans la maison abandonnée. Malgré leur fascination pour l'aspect mystérieux du lieu, ils préférèrent ne pas prendre de risques inutiles. Ils continuèrent donc leur exploration des environs, cherchant une activité plus sûre et excitante à la fois.
 
-En marchant le long du sentier, ils remarquèrent un panneau indiquant une réserve naturelle à quelques kilomètres de là. Intrigués par cette proposition, ils décidèrent de s'y rendre et de découvrir ce que cette réserve avait à offrir.
+peur : 1
 
-Après une courte marche, ils atteignirent la réserve naturelle et furent accueillis par un paysage enchanteur. Une vaste étendue de verdure s'étendait à perte de vue, parsemée de lacs étincelants et d'une flore luxuriante. Les oiseaux chantaient joyeusement, créant une symphonie naturelle qui emplissait l'air.
+Le groupe, prudent mais curieux, decida finalement de ne pas s'aventurer davantage dans la maison abandonnee. Malgre leur fascination pour l'aspect mysterieux du lieu, ils prefererent ne pas prendre de risques inutiles. Ils continuerent donc leur exploration des environs, cherchant une activite plus sure et excitante a la fois.
 
-Le groupe continua d'explorer les différents sentiers de la réserve. Certains se dirigèrent vers les lacs pour observer les oiseaux aquatiques, tandis que d'autres choisirent de s'aventurer dans la forêt dense à la recherche de traces d'animaux sauvages. Puis ces deniers se rejoignèrent près de la cascade. 
+En marchant le long du sentier, ils remarquerent un panneau indiquant une reserve naturelle a quelques kilometres de la. Intrigues par cette proposition, ils deciderent de s'y rendre et de decouvrir ce que cette reserve avait a offrir.
 
-Alors que le groupe savourait la tranquillité de la cascade, un bruit sourd se fit entendre derrière eux. C'est alors qu'ils virent face à eux un énorme ours qui s'approchait dangereusement de Mourad en le chargeant, qui s'était aventuré trop près de l'eau.
+Apres une courte marche, ils atteignirent la reserve naturelle et furent accueillis par un paysage enchanteur. Une vaste etendue de verdure s'etendait a perte de vue, parsemee de lacs etincelants et d'une flore luxuriante. Les oiseaux chantaient joyeusement, creant une symphonie naturelle qui emplissait l'air.
 
-La panique s'empara du groupe alors qu'ils réalisaient le danger imminent. Mourad, figé par la peur, était en danger de se noyer si l'ours le poussait dans les eaux tumultueuses de la cascade. C'est alors que l'ours percuta Mourad et l'envoya loin dans l'eau. Mourad, tétanisé par ce qu'il venait de se passer, avait du mal à nager et à rester à la surface de l'eau. 
+Le groupe continua d'explorer les differents sentiers de la reserve. Certains se dirigerent vers les lacs pour observer les oiseaux aquatiques, tandis que d'autres choisirent de s'aventurer dans la foret dense a la recherche de traces d'animaux sauvages. Puis ces deniers se rejoignerent pres de la cascade.
 
-Un choix s'impose. 
+Alors que le groupe savourait la tranquillite de la cascade, un bruit sourd se fit entendre derriere eux. C'est alors qu'ils virent face a eux un enorme ours qui s'approchait dangereusement de Mourad en le chargeant, qui s'etait aventure trop pres de l'eau.
 
-Les regards de Bao et d'Alice se dirigèrent vers vous, car vous êtes la figure de maturité du groupe. 
+La panique s'empara du groupe alors qu'ils realisaient le danger imminent. Mourad, fige par la peur, etait en danger de se noyer si l'ours le poussait dans les eaux tumultueuses de la cascade. C'est alors que l'ours percuta Mourad et l'envoya loin dans l'eau. Mourad, tetanise par ce qu'il venait de se passer, avait du mal a nager et a rester a la surface de l'eau.
+
+Un choix s'impose.
+
+Les regards de Bao et d'Alice se dirigerent vers vous, car vous etes la figure de maturite du groupe.
 
 Vous avez deux options.
 
-1 er choix : plonger dans l'eau et empecher votre frère de couler dans l'eau. Pendant ce temps, les autres membres du groupe contacteront des pompiers.
+1 er choix : plonger dans l'eau et empecher votre frere de couler dans l'eau. Pendant ce temps, les autres membres du groupe contacteront des pompiers.
 
 
 
-2 ème choix : Un sabre se trouve comme par hasard à vos pieds. Prenez le et attaquer l'ours afin qu'il vous laisse tranquille.
+2 eme choix : Un sabre se trouve comme par hasard a vos pieds. Prenez le et attaquer l'ours afin qu'il vous laisse tranquille.
 
-Quel est donc votre choix ? 
+Quel est donc votre choix ?
 
 
 Taper 1 pour le 1er choix.
 
 
 Taper 2 sinon
-
