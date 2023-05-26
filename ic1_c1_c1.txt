@@ -1,8 +1,8 @@
-Vous avez donc décidé de suivre votre frère. 
+Vous avez donc decide de suivre votre frere.
 
 
 
-Stats de votre personnage : 
+Stats de votre personnage :
 
 
 point de vie : 6
@@ -12,17 +12,17 @@ courage : 4
 peur : 7
 
 
-Le groupe, rongé par la culpabilité, fit demi-tour et s'engagea à nouveau dans la maison lugubre. Leurs pas résonnaient dans le silence oppressant tandis qu'ils parcouraient le chemin chaotique à la recherche de Bao. Les pièces désertées semblaient se moquer d'eux, leurs ombres dansantes se moquant de leur retour.
+Le groupe, ronge par la culpabilite, fit demi-tour et s'engagea a nouveau dans la maison lugubre. Leurs pas resonnaient dans le silence oppressant tandis qu'ils parcouraient le chemin chaotique a la recherche de Bao. Les pieces desertees semblaient se moquer d'eux, leurs ombres dansantes se moquant de leur retour.
 
-Finalement, après un long moment d'exploration angoissante, ils découvrirent Bao, gisant dans un coin sombre de la maison. Ses jambes étaient fracturées, sa douleur palpable sur son visage. Les membres du groupe ressentirent un mélange d'horreur et de soulagement en le voyant dans cet état.
+Finalement, apres un long moment d'exploration angoissante, ils decouvrirent Bao, gisant dans un coin sombre de la maison. Ses jambes etaient fracturees, sa douleur palpable sur son visage. Les membres du groupe ressentirent un melange d'horreur et de soulagement en le voyant dans cet etat.
 
-Mourad s'agenouilla près de Bao, les yeux emplis de regrets et de remords. Il s'excusa profondément pour l'acte ignoble qu'ils avaient commis en le laissant seul. Alice, les larmes aux yeux, se sentait impuissante et regrettait de ne pas avoir suivi son instinct de chercher de l'aide plus tôt.
+Mourad s'agenouilla pres de Bao, les yeux emplis de regrets et de remords. Il s'excusa profondement pour l'acte ignoble qu'ils avaient commis en le laissant seul. Alice, les larmes aux yeux, se sentait impuissante et regrettait de ne pas avoir suivi son instinct de chercher de l'aide plus tot.
 
-Ils se concertèrent rapidement et réalisèrent qu'il était urgent d'obtenir de l'aide médicale pour Bao. Avec précaution, ils le soulevèrent en évitant d'aggraver ses blessures, et entreprirent de le transporter hors de la maison maudite.
+Ils se concerterent rapidement et realiserent qu'il etait urgent d'obtenir de l'aide medicale pour Bao. Avec precaution, ils le souleverent en evitant d'aggraver ses blessures, et entreprirent de le transporter hors de la maison maudite.
 
-Leur chemin à travers les pièces sombres était laborieux, chaque pas étant une épreuve de courage et de détermination. La douleur de Bao était palpable, et ils ressentaient le poids de leur faute à chaque seconde qui passait. Mais ils ne s'arrêtèrent pas, se soutenant mutuellement pour trouver la sortie.
+Leur chemin a travers les pieces sombres etait laborieux, chaque pas etant une epreuve de courage et de determination. La douleur de Bao etait palpable, et ils ressentaient le poids de leur faute a chaque seconde qui passait. Mais ils ne s'arreterent pas, se soutenant mutuellement pour trouver la sortie.
 
-Finalement, épuisés mais déterminés, ils parvinrent à sortir de la maison. Ils appelèrent à l'aide, espérant qu'une âme charitable entendrait leur détresse et viendrait en aide à leur ami blessé. Dans l'obscurité de la nuit, ils se tinrent là, anxieux et remplis d'espoir, attendant le secours qui pourrait sauver la vie de Bao. Finalement, ils trouverent un villageois qui les enmena dans l'hopital du coin. Bilan des médecins : Bao est désormais obligé de se déplacer en fauteuils roulant, et devra attendre au moins 6 mois pour retrouver l'usage de ses jambes. 
-Sous le trouble de cette nouvelle, le groupe déçida immédiatement de rentrer à Paris. 
+Finalement, epuises mais determines, ils parvinrent a sortir de la maison. Ils appelerent a l'aide, esperant qu'une ame charitable entendrait leur detresse et viendrait en aide a leur ami blesse. Dans l'obscurite de la nuit, ils se tinrent la, anxieux et remplis d'espoir, attendant le secours qui pourrait sauver la vie de Bao. Finalement, ils trouverent un villageois qui les enmena dans l'hopital du coin. Bilan des medecins : Bao est desormais oblige de se deplacer en fauteuils roulant, et devra attendre au moins 6 mois pour retrouver l'usage de ses jambes.
+Sous le trouble de cette nouvelle, le groupe decida immediatement de rentrer a Paris.
 
 FIN DE L'ARC CAMPING. 
