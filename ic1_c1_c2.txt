@@ -1,7 +1,13 @@
-Vous avez donc décidé d'aller chercher de l'aide et de laisser Bao seul. 
+Vous avez donc decide d'aller chercher de l'aide et de laisser Bao seul.
 
 
-Stats de votre personnage : 
+Stats de votre personnage :
+
+vie : 10
+
+courage : 5
+
+peur : 4
 
 
 
@@ -9,27 +15,25 @@ Stats de votre personnage :
 
 
 
+Malgre la douleur lancinante de votre bras, vous courrez a pleine allure avec votre frere et Alice dans la quete de trouver de l'aide pour Bao. La conscience pesante de l'abandon de leur camarade blesse accompagnait votre groupe a chaque pas, mais ils etaient determines a rectifier leur erreur.
 
+Traversant rapidement le sentier obscur, les membres du groupe se soutenaient mutuellement, leur inquietude grandissant a mesure qu'ils avancaient. La nuit semblait s'epaissir autour d'eux, l'atmosphere chargee de mystere et d'angoisse.
 
-Malgré la douleur lancinante de votre bras, vous courrez à pleine allure avec votre frère et Alice dans la quête de trouver de l'aide pour Bao. La conscience pesante de l'abandon de leur camarade blessé accompagnait votre groupe à chaque pas, mais ils étaient déterminés à rectifier leur erreur.
+Apres une marche ereintante, ils finirent par arriver a une petite clairiere ou Alice pensait avoir vu une route a proximite. Leurs coeurs battaient fort d'espoir alors qu'ils scrutaient l'obscurite pour trouver le chemin de salut.
 
-Traversant rapidement le sentier obscur, les membres du groupe se soutenaient mutuellement, leur inquiétude grandissant à mesure qu'ils avançaient. La nuit semblait s'épaissir autour d'eux, l'atmosphère chargée de mystère et d'angoisse.
+Soudain, une lueur faible mais reconfortante apparut au loin, indiquant la presence d'une maison isolee. Alice et le reste du groupe se dirigerent vers cette source d'espoir, guides par l'idee d'obtenir de l'aide pour Bao.
 
-Après une marche éreintante, ils finirent par arriver à une petite clairière où Alice pensait avoir vu une route à proximité. Leurs cœurs battaient fort d'espoir alors qu'ils scrutaient l'obscurité pour trouver le chemin de salut.
+Arrives devant la maison, ils frapperent a la porte avec empressement, esperant trouver quelqu'un de secourable a l'interieur. Apres un court moment, la porte s'ouvrit, revelant un homme age au regard bienveillant.
 
-Soudain, une lueur faible mais réconfortante apparut au loin, indiquant la présence d'une maison isolée. Alice et le reste du groupe se dirigèrent vers cette source d'espoir, guidés par l'idée d'obtenir de l'aide pour Bao.
+Le groupe, essouffle et anxieux, expliqua rapidement la situation a l'homme, implorant son aide pour leur ami blesse. L'homme ecouta attentivement, puis invita le groupe a entrer. Il leur indiqua qu'il etait medecin a la retraite et qu'il ferait tout son possible pour aider Bao.
 
-Arrivés devant la maison, ils frappèrent à la porte avec empressement, espérant trouver quelqu'un de secourable à l'intérieur. Après un court moment, la porte s'ouvrit, révélant un homme âgé au regard bienveillant.
+Dans un melange de soulagement et de gratitude, le groupe suivit l'homme a l'interieur de sa maison. Ils furent accueillis par un interieur chaleureux et reconfortant, loin de l'horreur de la maison abandonnee.
 
-Le groupe, essoufflé et anxieux, expliqua rapidement la situation à l'homme, implorant son aide pour leur ami blessé. L'homme écouta attentivement, puis invita le groupe à entrer. Il leur indiqua qu'il était médecin à la retraite et qu'il ferait tout son possible pour aider Bao.
+Pendant que le medecin examinait Bao, les membres du groupe se sentirent un poids se lever de leurs epaules. Ils avaient fait le bon choix en cherchant de l'aide, en refusant de laisser leur camarade blesse derriere eux.
 
-Dans un mélange de soulagement et de gratitude, le groupe suivit l'homme à l'intérieur de sa maison. Ils furent accueillis par un intérieur chaleureux et réconfortant, loin de l'horreur de la maison abandonnée.
+Les heures suivantes furent remplies d'attente anxieuse, mais finalement, le medecin annonca que bien que les jambes de Bao etaient gravement fracturees, il survivrait. Une operation serait necessaire, mais il avait de bonnes chances de se retablir completement. Ils se rendirent donc dans l'hopital du coin afin de realise cette operation. Cette derniere fut un succes.
 
-Pendant que le médecin examinait Bao, les membres du groupe se sentirent un poids se lever de leurs épaules. Ils avaient fait le bon choix en cherchant de l'aide, en refusant de laisser leur camarade blessé derrière eux.
-
-Les heures suivantes furent remplies d'attente anxieuse, mais finalement, le médecin annonça que bien que les jambes de Bao étaient gravement fracturées, il survivrait. Une opération serait nécessaire, mais il avait de bonnes chances de se rétablir complètement. Ils se rendirent donc dans l'hopital du coin afin de réalise cette opération. Cette dernière fut un succès.
-
-Le groupe ressentit un soulagement immense, mêlé de gratitude envers Alice pour avoir insisté pour chercher de l'aide. Ils savaient qu'ils auraient à faire face aux conséquences de leur abandon précédent, mais pour l'instant, leur priorité était de soutenir Bao dans sa récupération.
-C'est ainsi qu'ils décidèrent de rentre à Paris suite à cette histoire boulversante. Cette fameuse maison ne quittera jamais leur tête.
+Le groupe ressentit un soulagement immense, mele de gratitude envers Alice pour avoir insiste pour chercher de l'aide. Ils savaient qu'ils auraient a faire face aux consequences de leur abandon precedent, mais pour l'instant, leur priorite etait de soutenir Bao dans sa recuperation.
+C'est ainsi qu'ils deciderent de rentre a Paris suite a cette histoire boulversante. Cette fameuse maison ne quittera jamais leur tete.
 
 FIN DE L'ARC CAMPING.
