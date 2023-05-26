@@ -1,30 +1,30 @@
-Vous avez donc décidé de prendre ce fameux sabre. 
+Vous avez donc decide de prendre ce fameux sabre.
 
 
-En le prenant, vous vous blessez involontairement le doigt en touchant l'arme. 
+En le prenant, vous vous blessez involontairement le doigt en touchant l'arme.
 
 
-Stats de votre personnage : 
+Stats de votre personnage :
 
 
-Points de vie : 7 
+Points de vie : 7
 
-courage : 6 
+courage : 6
 
 peur : 4
 
 
-Vous possédez désormais une arme.
+Vous possedez desormais une arme.
 
-Amina, armée de son sabre, se précipita vers l'ours qui menaçait Mourad. D'un geste audacieux, elle engagea le combat avec la créature sauvage, faisant preuve d'une grande agilité et d'un courage sans faille. Pendant ce temps, les autres membres du groupe appelèrent à l'aide et s'organisèrent pour secourir Mourad.
+Amina, armee de son sabre, se precipita vers l'ours qui menacait Mourad. D'un geste audacieux, elle engagea le combat avec la creature sauvage, faisant preuve d'une grande agilite et d'un courage sans faille. Pendant ce temps, les autres membres du groupe appelerent a l'aide et s'organiserent pour secourir Mourad.
 
-Malgré la puissance de l'ours, Amina parvint à le repousser, mais elle fut blessée dans la bataille. Heureusement, les autres membres du groupe réussirent à sortir Mourad de l'eau et à lui prodiguer les premiers soins. Cependant, la situation restait critique pour Amina, dont les blessures nécessitaient une attention médicale urgente.
+Malgre la puissance de l'ours, Amina parvint a le repousser, mais elle fut blessee dans la bataille. Heureusement, les autres membres du groupe reussirent a sortir Mourad de l'eau et a lui prodiguer les premiers soins. Cependant, la situation restait critique pour Amina, dont les blessures necessitaient une attention medicale urgente.
 
-Alors que le groupe se préparait à appeler les secours, l'homme de la boutique des trésors arriva sur les lieux. Il était doté d'un étrange pouvoir de communication avec les animaux sauvages. D'un geste apaisant, il réussit à calmer l'ours et à le faire fuir.
+Alors que le groupe se preparait a appeler les secours, l'homme de la boutique des tresors arriva sur les lieux. Il etait dote d'un etrange pouvoir de communication avec les animaux sauvages. D'un geste apaisant, il reussit a calmer l'ours et a le faire fuir.
 
-Le groupe se précipita ensuite à l'hôpital, où Amina et Mourad reçurent les soins nécessaires. Malgré leurs blessures, ils se rétablirent progressivement grâce aux soins attentionnés du personnel médical.
+Le groupe se precipita ensuite a l'hopital, ou Amina et Mourad recurent les soins necessaires. Malgre leurs blessures, ils se retablirent progressivement grace aux soins attentionnes du personnel medical.
 
-Cette expérience marqua profondément le groupe, renforçant leur amitié et leur gratitude envers Amina pour son courage héroïque. Désormais, ils étaient pluunis que jamais, prêts à affronter ensemble les défis à venir, conscients que leur amitié était leur plus grande force. Toutefois, Mourad et Amine étaient d'autant plus choqués par ce qu'il venait de se passer. Ils proposèrent de ce fait de reporter les vacances, et de rentrer à Paris dés aujourd'hui. Les autres membres du groupe respectèrent leur décision et la comprenait tout à fait. 
+Cette experience marqua profondement le groupe, renforcant leur amitie et leur gratitude envers Amina pour son courage heroique. Desormais, ils etaient pluunis que jamais, prets a affronter ensemble les defis a venir, conscients que leur amitie etait leur plus grande force. Toutefois, Mourad et Amine etaient d'autant plus choques par ce qu'il venait de se passer. Ils proposerent de ce fait de reporter les vacances, et de rentrer a Paris des aujourd'hui. Les autres membres du groupe respecterent leur decision et la comprenait tout a fait.
 C'est ainsi que le groupe rentra sur Paris laissant ce camp.  
 
 FIN DE L'ARC CAMPING.
