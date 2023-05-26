@@ -10,7 +10,7 @@ courage : 5
 peur : 5
 
 
-Le groupe s'avança prudemment sur le sentier qui les conduisait vers la maison abandonnée, plongés dans l'obscurité de la nuit. Les branches des arbres semblaient gratter le ciel étoilé, projetant des ombres étranges et effrayantes sur leur chemin. Une brume épaisse se faufilait à travers les bois, créant une atmosphère mystérieuse et inquiétante.
+Le groupe s'avanca prudemment sur le sentier qui les conduisait vers la maison abandonnee, plonges dans l'obscurite de la nuit. Les branches des arbres semblaient gratter le ciel etoile, projetant des ombres etranges et effrayantes sur leur chemin. Une brume epaisse se faufilait a travers les bois, creant une atmosphère mystérieuse et inquiétante.
 
 Au fur et à mesure de leur progression, le silence pesant se mêlait au murmure du vent, créant une ambiance lugubre. La maison se dressait devant eux, son allure décrépite reflétant la tristesse qui l'habitait. Les fenêtres cassées semblaient les regarder sans vie, les observant d'un air froid et indifférent.
 
