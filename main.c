@@ -25,13 +25,14 @@ int main() {
     while ((c = fgetc(f)) != EOF) {                       //affichage du texte sur le terminal
         printf(ANSI_COLOR_BLUE "%c" ANSI_COLOR_RESET, c);
         fflush(stdout);     // Vider le tampon de sortie pour afficher le caractère immédiatement
-        usleep(50 000);      // Pause de 50 000 microsecondes
+        usleep(10000);      // Pause de 10 000 microsecondes
     }
     fclose(f);
 
     int a;                                  //choix de l'utilisateur
     do {
         printf("Tapez 1 ou 2\n");
+
         verif = scanf("%d", &a);
         vide_buffer();
     } while (a != 1 && a != 2);
@@ -47,7 +48,7 @@ int main() {
     while ((c1 = fgetc(f1)) != EOF) {
         printf(ANSI_COLOR_BLUE "%c" ANSI_COLOR_RESET, c1);
         fflush(stdout);  // Permet d'afficher lettre par lettre avec un délai;
-        usleep(5000); 
+        usleep(10000); 
     }
     fclose(f1);
 
@@ -77,7 +78,7 @@ int main() {
     while ((c2 = fgetc(f2)) != EOF) {
         printf(ANSI_COLOR_BLUE "%c" ANSI_COLOR_RESET, c2);
          fflush(stdout);  // Vider le tampon de sortie pour afficher le caractère immédiatement
-        usleep(50 000);  // Pause de 50 000 microsecondes 
+        usleep(10000);  // Pause de 10 000 microsecondes 
     }
     fclose(f2);
 
@@ -123,7 +124,7 @@ int main() {
     while ((c3 = fgetc(f3)) != EOF) {
         printf(ANSI_COLOR_BLUE "%c" ANSI_COLOR_RESET, c3);
         fflush(stdout);  // Vider le tampon de sortie pour afficher le caractère immédiatement
-        usleep(50 000);  // Pause de 50 000 microsecondes 
+        usleep(10000);  // Pause de 10 000 microsecondes 
     }
     fclose(f3);
 
