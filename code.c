@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>  // Inclure la bibliothèque pour usleep
+#include <vide_buffer.h>
 
 // Codes d'échappement ANSI pour la couleur bleue
 #define ANSI_COLOR_BLUE "\033[0;34m"
